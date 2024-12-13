@@ -16,4 +16,4 @@ ToDoApp is a simple task management application built using the React library. I
 
 * CSS: Styling for a clean and user-friendly design.
 
-![appView](./src/imageLook.png)
+![appView](https://i.ibb.co/74XrPgQ/image-Look.png)
