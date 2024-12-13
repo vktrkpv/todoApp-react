@@ -9,7 +9,6 @@ export class TodoApp extends Component {
 
     onChangeEvent(e){
         this.setState({userInput: e});
-        console.log(e)
     }
 
     addItem(input){
